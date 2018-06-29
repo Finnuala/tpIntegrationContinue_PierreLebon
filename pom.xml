@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<scm>
-                <developerConnection>scm:git:https://github.com/Finnuala/tpIntegrationContinue_PierreLebon</developerConnection>        
+                <developerConnection>scm:git:https://github.com/Finnuala/tpIntegrationContinue_PierreLebon.git</developerConnection>        
 	</scm>
 	<developers>
 		<developer>
